@@ -1,12 +1,12 @@
 <div>
-Bike-Sale-Analysis
+<h1>Bike-Sale-Analysis</h1>
   </div>
   <div>
 Introduction
 Welcome to the Bike Sales Dashboard repository! This project provides a comprehensive analysis of bike sales data through an interactive and visually appealing dashboard created using Microsoft Excel. The dashboard offers valuable insights into customer demographics, purchasing behavior, and commute patterns, enabling data-driven decision-making for stakeholders.
 </div>
 <div>
-Features
+<h2>Features</h2>
   </div>
   <div>
 <ol>
