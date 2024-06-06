@@ -4,7 +4,7 @@ Introduction
 Welcome to the Bike Sales Dashboard repository! This project provides a comprehensive analysis of bike sales data through an interactive and visually appealing dashboard created using Microsoft Excel. The dashboard offers valuable insights into customer demographics, purchasing behavior, and commute patterns, enabling data-driven decision-making for stakeholders.
 </div>
 <div>
-Features
+# Features
 <ol>
 <li>Interactive Filters: Filter the data by marital status, region, and education level to tailor the insights to specific segments.</li>
 <li>Average Income Per Purchase: Analyze the average income of customers segmented by gender and purchase status.</li>
